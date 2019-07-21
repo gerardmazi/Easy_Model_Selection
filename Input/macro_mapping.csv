@@ -1,0 +1,19 @@
+macro,base,percent
+OBS,quarter,0
+Real GDP growth,GDPR,0
+Nominal GDP growth,GDPN,0
+Real disposable income growth,DPIR,0
+Nominal disposable income growth,DPIN,0
+Unemployment rate,UR,1
+CPI inflation rate,CPI,0
+3-month Treasury yield,T3M,1
+5-year Treasury yield,T5Y,1
+10-year Treasury yield,T10Y,1
+BBB corporate yield,BBB,1
+Mortgage rate,MTG,1
+Prime rate,PRIM,1
+Dow Jones Total Stock Market Index,DJ,0
+House Price Index,HPI,0
+Commercial Real Estate Price Index,CREPI,0
+Market Volatility Index (VIX),VIX,0
+BBB Spread,BBB_SP,1
